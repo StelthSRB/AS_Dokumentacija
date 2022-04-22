@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.04.22 20:56:20.650,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.04.22 20:58:19.068,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022.04.22 20:59:17.083,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmMain_u.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.04.22 20:59:17.083,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmMain_u.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.04.22 21:01:06.955,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmIntro_u.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022.04.22 21:01:06.955,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmIntro_u.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022.04.22 22:16:11.793,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Dokumentacija.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmIntro_u.pas</Transaction>
+    <Transaction>2022.04.22 22:16:11.793,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Dokumentacija.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\frmIntro_u.dfm</Transaction>
+    <Transaction>2022.04.22 22:16:43.849,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Projekat.dproj=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
