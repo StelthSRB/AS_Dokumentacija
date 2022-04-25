@@ -6033,6 +6033,7 @@ object frmIntro: TfrmIntro
     Height = 25
     Caption = 'Cancel'
     TabOrder = 1
+    OnClick = CancelClick
   end
   object edtName: TEdit
     Left = 264

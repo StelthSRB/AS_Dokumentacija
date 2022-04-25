@@ -15,6 +15,7 @@ type
     edtName: TEdit;
     edtPassword: TEdit;
     procedure btnLoginClick(Sender: TObject);
+    procedure CancelClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -58,6 +59,11 @@ begin
  ShowMessage('Netacna lozinka');
 end;
 
+end;
+
+procedure TfrmIntro.CancelClick(Sender: TObject);
+begin
+Application.Terminate;
 end;
 
 end.

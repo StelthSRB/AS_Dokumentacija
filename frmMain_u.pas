@@ -4,10 +4,14 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, frmIntro_u;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Dokumentacija, Vcl.StdCtrls,
+  Vcl.WinXCtrls;
 
 type
   TfrmMain = class(TForm)
+    Label1: TLabel;
+    Pretrazite: TSearchBox;
+    Button1: TButton;
     procedure FormShow(Sender: TObject);
   private
     { Private declarations }
