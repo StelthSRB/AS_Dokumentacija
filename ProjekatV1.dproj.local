@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\SearchV2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Upload.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Print.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Search.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Print.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\SearchV2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Upload.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Login.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Documents.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Documents.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\ProjekatV1.dproj=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Login.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Search.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,=C:\Users\Lucky\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
